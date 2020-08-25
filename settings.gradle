@@ -1,0 +1,2 @@
+rootProject.name='Festin'
+include ':app'
