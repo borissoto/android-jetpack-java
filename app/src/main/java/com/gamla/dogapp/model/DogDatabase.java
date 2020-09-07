@@ -1,4 +1,4 @@
-package com.gamla.festin.model;
+package com.gamla.dogapp.model;
 
 import android.content.Context;
 

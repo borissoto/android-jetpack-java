@@ -6,7 +6,7 @@
     app:startDestination="@id/principalFragment">
     <fragment
         android:id="@+id/principalFragment"
-        android:name="com.gamla.festin.view.PrincipalFragment"
+        android:name="com.gamla.dogapp.view.PrincipalFragment"
         android:label="fragment_principal"
         tools:layout="@layout/fragment_principal" >
         <action
@@ -19,7 +19,7 @@
     </fragment>
     <fragment
         android:id="@+id/detailFragment"
-        android:name="com.gamla.festin.view.DetailFragment"
+        android:name="com.gamla.dogapp.view.DetailFragment"
         android:label="fragment_detail"
         tools:layout="@layout/fragment_detail" >
         <action
@@ -34,6 +34,6 @@
     </fragment>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.gamla.festin.view.SettingsFragment"
+        android:name="com.gamla.dogapp.view.SettingsFragment"
         android:label="SettingsFragment" />
 </navigation>

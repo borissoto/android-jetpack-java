@@ -3,10 +3,10 @@
     <data>
         <variable
             name="dog"
-            type="com.gamla.festin.model.DogBreed" />
+            type="com.gamla.dogapp.model.DogBreed" />
         <variable
             name="palette"
-            type="com.gamla.festin.model.DogPalette" />
+            type="com.gamla.dogapp.model.DogPalette" />
     </data>
     <RelativeLayout xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"

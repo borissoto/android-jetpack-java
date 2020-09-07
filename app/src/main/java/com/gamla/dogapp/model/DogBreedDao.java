@@ -1,4 +1,4 @@
-package com.gamla.festin.model;
+package com.gamla.dogapp.model;
 
 import androidx.room.Dao;
 import androidx.room.Insert;

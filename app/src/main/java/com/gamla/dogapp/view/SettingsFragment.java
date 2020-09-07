@@ -1,16 +1,11 @@
-package com.gamla.festin.view;
+package com.gamla.dogapp.view;
 
 import android.os.Bundle;
 
 import androidx.fragment.app.Fragment;
 import androidx.preference.PreferenceFragmentCompat;
 
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.TextView;
-
-import com.gamla.festin.R;
+import com.gamla.dogapp.R;
 
 /**
  * A simple {@link Fragment} subclass.

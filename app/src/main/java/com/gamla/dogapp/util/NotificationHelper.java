@@ -1,4 +1,4 @@
-package com.gamla.festin.util;
+package com.gamla.dogapp.util;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -13,8 +13,8 @@ import android.os.Build;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
-import com.gamla.festin.R;
-import com.gamla.festin.view.MainActivity;
+import com.gamla.dogapp.R;
+import com.gamla.dogapp.view.MainActivity;
 
 public class NotificationHelper {
     private static final String CHANNEL_ID = "Dogs channel id";

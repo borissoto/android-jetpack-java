@@ -1,7 +1,6 @@
-package com.gamla.festin.util;
+package com.gamla.dogapp.util;
 
 import android.content.Context;
-import android.graphics.ColorFilter;
 import android.widget.ImageView;
 
 import androidx.databinding.BindingAdapter;
@@ -9,7 +8,7 @@ import androidx.swiperefreshlayout.widget.CircularProgressDrawable;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
-import com.gamla.festin.R;
+import com.gamla.dogapp.R;
 
 public class Util {
 

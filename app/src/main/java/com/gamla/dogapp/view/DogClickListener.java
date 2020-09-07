@@ -1,4 +1,4 @@
-package com.gamla.festin.view;
+package com.gamla.dogapp.view;
 
 import android.view.View;
 

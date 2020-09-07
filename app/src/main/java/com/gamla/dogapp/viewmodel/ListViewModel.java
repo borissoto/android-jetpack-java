@@ -1,4 +1,4 @@
-package com.gamla.festin.viewmodel;
+package com.gamla.dogapp.viewmodel;
 
 import android.app.Application;
 import android.os.AsyncTask;
@@ -8,17 +8,16 @@ import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.MutableLiveData;
 
-import com.gamla.festin.model.DogBreed;
-import com.gamla.festin.model.DogBreedDao;
-import com.gamla.festin.model.DogDatabase;
-import com.gamla.festin.model.DogsApiService;
-import com.gamla.festin.util.NotificationHelper;
-import com.gamla.festin.util.SharedPreferencesHelper;
+import com.gamla.dogapp.model.DogBreed;
+import com.gamla.dogapp.model.DogBreedDao;
+import com.gamla.dogapp.model.DogDatabase;
+import com.gamla.dogapp.model.DogsApiService;
+import com.gamla.dogapp.util.NotificationHelper;
+import com.gamla.dogapp.util.SharedPreferencesHelper;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import io.reactivex.Scheduler;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.disposables.CompositeDisposable;
 import io.reactivex.observers.DisposableSingleObserver;

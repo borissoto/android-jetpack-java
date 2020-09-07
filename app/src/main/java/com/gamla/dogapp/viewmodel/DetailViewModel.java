@@ -1,16 +1,13 @@
-package com.gamla.festin.viewmodel;
+package com.gamla.dogapp.viewmodel;
 import android.app.Application;
-import android.content.Context;
 import android.os.AsyncTask;
-import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.MutableLiveData;
-import androidx.lifecycle.ViewModel;
 
-import com.gamla.festin.model.DogBreed;
-import com.gamla.festin.model.DogDatabase;
+import com.gamla.dogapp.model.DogBreed;
+import com.gamla.dogapp.model.DogDatabase;
 
 public class DetailViewModel extends AndroidViewModel {
 

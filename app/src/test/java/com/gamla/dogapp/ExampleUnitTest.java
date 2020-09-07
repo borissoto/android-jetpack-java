@@ -1,4 +1,4 @@
-package com.gamla.festin;
+package com.gamla.dogapp;
 
 import org.junit.Test;
 

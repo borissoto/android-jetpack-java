@@ -1,4 +1,4 @@
-package com.gamla.festin.model;
+package com.gamla.dogapp.model;
 
 public class DogPalette {
     public int color;

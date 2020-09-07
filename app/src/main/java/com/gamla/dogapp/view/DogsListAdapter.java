@@ -1,10 +1,8 @@
-package com.gamla.festin.view;
+package com.gamla.dogapp.view;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -12,10 +10,9 @@ import androidx.databinding.DataBindingUtil;
 import androidx.navigation.Navigation;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.gamla.festin.R;
-import com.gamla.festin.databinding.ItemDogBinding;
-import com.gamla.festin.model.DogBreed;
-import com.gamla.festin.util.Util;
+import com.gamla.dogapp.R;
+import com.gamla.dogapp.databinding.ItemDogBinding;
+import com.gamla.dogapp.model.DogBreed;
 
 import java.util.ArrayList;
 import java.util.List;

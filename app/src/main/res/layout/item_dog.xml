@@ -3,10 +3,10 @@
 <data>
     <variable
         name="dog"
-        type="com.gamla.festin.model.DogBreed" />
+        type="com.gamla.dogapp.model.DogBreed" />
     <variable
         name="listener"
-        type="com.gamla.festin.view.DogClickListener" />
+        type="com.gamla.dogapp.view.DogClickListener" />
 </data>
     <LinearLayout
         android:id="@+id/dogLayout"

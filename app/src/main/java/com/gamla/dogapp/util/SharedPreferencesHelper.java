@@ -1,4 +1,4 @@
-package com.gamla.festin.util;
+package com.gamla.dogapp.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;
